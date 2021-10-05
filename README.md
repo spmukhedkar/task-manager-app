@@ -24,6 +24,6 @@ Below are used APIs:
 | GET | /tasks | Return all tasks |
 | GET |	/tasks/:id | Return a particular task |
 | POST | /tasks | Add new task |
-| PATCH | /tasks/:id | Update either status, description, or both of a particular task |
+| PUT | /tasks/:id | Update either status, description, or both of a particular task |
 | DELETE |	/tasks/:id | Delete a particular task |
 
