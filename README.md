@@ -27,3 +27,7 @@ Below are used APIs:
 | PUT | /tasks/:id | Update either status, description, or both of a particular task |
 | DELETE |	/tasks/:id | Delete a particular task |
 
+## Unit Testing
+For running unit test cases, please execute below command
+
+`npm test`
